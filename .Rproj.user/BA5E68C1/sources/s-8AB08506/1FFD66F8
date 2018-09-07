@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1533522330668.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1FFD66F8",
+    "lastKnownWriteTime" : 3346849036566623844,
+    "last_content_update" : 1533522330668,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "F016425D",
+        "caption" : "Probs_Stats_Data_Analysis",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Probs_Stats_Data_Analysis&cache_key=F016425D",
+        "displayedObservations" : 23,
+        "environment" : "",
+        "object" : "Probs_Stats_Data_Analysis",
+        "preview" : 0,
+        "totalObservations" : 23,
+        "variables" : 9
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
